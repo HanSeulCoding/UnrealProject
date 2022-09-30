@@ -1,0 +1,2 @@
+C:\Users\USER-PC\Documents\Unreal Projects\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+C:\Users\USER-PC\Documents\Unreal Projects\FirstProject\Source\FirstProject\FirstProject.h
